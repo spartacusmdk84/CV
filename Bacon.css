@@ -1,0 +1,28 @@
+/**************************Tag Selector****************************/
+
+h1 {
+color: Red;
+font-size: 200px;
+}
+
+/**************************Class Selector*************************/
+
+.bacon {
+
+background-color: green;
+
+}
+
+.broccoli {
+
+background-color: Red;
+
+}
+
+/**************************ID Selector*************************/
+
+#Heading {
+
+background-color: Blue;
+
+}
